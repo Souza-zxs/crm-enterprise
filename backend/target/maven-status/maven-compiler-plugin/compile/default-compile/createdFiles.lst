@@ -1,0 +1,14 @@
+com\crm\model\Conversation$ConversationChannel.class
+com\crm\model\Lead$FunnelStage.class
+com\crm\model\Message$MessageDirection.class
+com\crm\model\Message.class
+com\crm\model\WhatsAppConnection.class
+com\crm\dto\LeadDTO.class
+com\crm\model\User$UserRole.class
+com\crm\model\Company.class
+com\crm\model\Campaign$CampaignSource.class
+com\crm\model\Conversation.class
+com\crm\model\Lead.class
+com\crm\model\User.class
+com\crm\model\Campaign.class
+com\crm\model\Message$MessageStatus.class
